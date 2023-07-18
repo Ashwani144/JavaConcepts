@@ -5,14 +5,12 @@ class parent{
 	void show(){
 		System.out.println("Hello I am parent");
 	}
-	
 }
 
 class chield extends parent{
 	void show(){
 		System.out.println("Hello I am chield");
-	}
-	
+	}	
 }
 
 public class UpcastingProgram {
