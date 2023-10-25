@@ -1,6 +1,4 @@
 package JavaPractise.JavaPractise;
-
-
 class parent{
 	void show(){
 		System.out.println("Hello I am parent");
